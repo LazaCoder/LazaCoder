@@ -18,7 +18,7 @@ I have a passion for both frontend and backend development. Lately, I'm leaning 
 I'm always open to exciting projects in the IT sector! Whether it's a cool web app, a groundbreaking Android application, or anything in between, let's create something amazing together.
 
 ## 📫 How to Reach Me...
-Feel free to connect with me through GitHub or drop me an email at [ivanlazarusic4@gmail.com].
+Feel free to connect with me through GitHub or drop me an email at ivanlazarusic4@gmail.com.
 
 ## 😄 Pronouns...
 He/Him
