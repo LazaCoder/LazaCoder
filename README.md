@@ -16,12 +16,3 @@ I have a passion for both frontend and backend development. Lately, I'm leaning 
 ## How to Reach Me...
 Feel free to connect with me through GitHub or drop me an email at ivanlazarusic4@gmail.com.
 
-## 😄 Pronouns...
-He/Him
-
-## ⚡ Fun Facts...
-- 🏋️‍♂️ When I'm not coding, you can find me at the gym, pushing my limits.
-- 🎸 I love playing the guitar and jamming out to my favorite tunes.
-- 🌍 I'm always eager to meet new people and learn new things.
-
-Let's connect, collaborate, and create something incredible! 🚀
